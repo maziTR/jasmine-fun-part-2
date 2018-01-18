@@ -1,7 +1,6 @@
 {
   "name": "jasmine-fun",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +8,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jasmine": "^2.5.3"
-  }
+    "jasmine": "^2.8.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maziTR/jasmine-fun-part-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maziTR/jasmine-fun-part-2/issues"
+  },
+  "homepage": "https://github.com/maziTR/jasmine-fun-part-2#readme",
+  "description": ""
 }
